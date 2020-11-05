@@ -57,10 +57,4 @@ class App extends React.Component {
     }
 }
 
-// With this set up, you then need to write a method that uses 
-// this.setState to randomly change the 5 numbers to a number between 1 - 6.
-// Ex: Math.floor(Math.random() * 6;
-// From there its all about how you want to display those numbers in 
-// your return statement.
-
 export default App
